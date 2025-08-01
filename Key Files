@@ -1,0 +1,7 @@
+# OpenRouter
+OPENROUTER_API_KEY="your_api_key_here"
+
+# Spotify
+SPOTIPY_CLIENT_ID="your_spotify_client_id"
+SPOTIPY_CLIENT_SECRET="your_spotify_client_secret"
+SPOTIPY_REDIRECT_URI="http://localhost:8501/callback"
